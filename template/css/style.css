@@ -1,0 +1,140 @@
+		
+		.logo {
+			margin: 10px;
+		}
+		.foot {
+			background-color: #696969;
+			min-height: 600px;
+			color: white;
+			margin-top: 20px;
+		}
+		.navbar {
+			box-shadow: 0 0 5px;
+		}
+		.footext {
+			margin-top: 60px;
+		}
+		.slide {
+			margin-top: 75px;
+		}
+		.copy {
+			margin-top: 20px;
+
+		}
+		hr {
+			margin-top: 30px;
+			opacity: 50%;
+		}
+		.entr {
+			margin-top: 15px;
+		}
+		.crsl {
+			text-align: center;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			font-size: 1.5em;
+		}
+		.middle,
+		.hdd {
+			background-color: #DCDCDC;
+		}
+		.middle {
+			margin-top: 50px;
+		}
+		.menust {
+			background-color: #00BFFF;
+			color: white;
+			margin-top: 50px;
+			box-shadow: 0 0 10px;
+		}
+		.nws {
+			padding: 30px;
+			background-color: #D3D3D3;
+			max-height: 300px;
+		}
+		.nws-block {
+			margin-top: 30px;
+			padding: 20px;
+			padding-left: 100px;
+		}
+		.menli {
+			font-size: 1.5em;
+			margin: 20px;
+			display: block;
+			padding: 20px;
+			display: block;
+		}
+		.menli:hover {
+			box-shadow: 0 0 5px;
+			background-color: #808080;
+			transition: 0.2s ease-in-out;
+			cursor: pointer;
+		}
+		.mnu {
+			margin: 20px;
+			padding: 20px;
+		}
+		.vacs {
+			cursor: pointer;
+		}
+		.b-container{
+		    width:200px;
+		    height:150px;
+		    background-color: #ccc;
+		    margin:0px auto;
+		    padding:10px;
+		    font-size:30px;
+		    color: #fff;
+		}
+		.b-popup{
+		    width:100%;
+		    min-height:100%;
+		    background-color: rgba(0,0,0,0.5);
+		    overflow:hidden;
+		    position:fixed;
+		    top:0px;
+		}
+		.b-popup .b-popup-content{
+		    margin:40px auto 0px auto;
+		    width:1px;
+		    height: 1px;
+		    padding:10px;
+		    background-color: #c5c5c5;
+		}
+		.srtf {
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
+		.sil {
+			text-align: center;
+			margin-top: 20px;
+			margin-bottom: 40px;
+		}
+		.lic {
+			padding: 20px;
+			padding-right: 40px;
+		}
+		#clslic:hover {
+			color:red;
+
+		}
+		a {
+			color: white;
+		}
+		a:link, a:hover, a:active, a:visited {
+			text-decoration: none;
+		}
+		.dirs-text {
+			padding-top: 40px;
+		}
+		.dirs-block {
+			margin-bottom: 30px;
+		}
+		.cright {
+			text-align: center;
+		}
+		.crtime {
+			margin: 20px;
+			/*font-size: 1em;*/
+		}
+		
